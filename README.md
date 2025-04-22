@@ -17,8 +17,11 @@
 ```bash
 pip install PyQt5 pyautogui keyboard
 
+python sync_clicker.py
+```
 ## 使用说明​​
-​​### 添加点击位置​​：
+
+### 添加点击位置​​：
 点击 添加点击区域 按钮。
 移动鼠标到目标位置，按下 Ctrl 键保存坐标。
 ### ​​执行点击​​：
