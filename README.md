@@ -1,4 +1,4 @@
-# sync-click-app
+# sync-click-app(软件exe版本直接在release中下载)
 windows桌面级同步点击器（轻量级应用），支持多位置同步点击，本地打包exe
 
 # 同步点击工具 - SyncClicker
@@ -23,7 +23,7 @@ python sync_clicker.py
 pyinstaller --onefile --windowed --icon=click.ico sync_click2.py
 ```
 ## 打包后软件使用说明​​
-
+(软件exe直接下载见release)
 ### 添加点击位置​​：
 点击 添加点击区域 按钮。
 移动鼠标到目标位置，按下 Ctrl 键保存坐标。
