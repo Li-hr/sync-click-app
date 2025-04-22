@@ -1,5 +1,5 @@
 # sync-click-app
-同步点击器
+windows桌面级同步点击器（轻量级应用），支持多位置同步点击，本地打包exe
 
 # 同步点击工具 - SyncClicker
 
