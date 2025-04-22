@@ -15,11 +15,14 @@
 ## **快速开始**
 ### 依赖安装
 ```bash
+#安装依赖
 pip install PyQt5 pyautogui keyboard
-
+#本地py环境运行测试
 python sync_clicker.py
+#打包程序
+pyinstaller --onefile --windowed --icon=click.ico sync_click2.py
 ```
-## 使用说明​​
+## 打包后软件使用说明​​
 
 ### 添加点击位置​​：
 点击 添加点击区域 按钮。
